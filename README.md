@@ -2,10 +2,12 @@
 Find &amp; Lost Items is a web application built using PHP, MySQL, HTML, and CSS, designed to help users report and track lost or found items efficiently. The goal is to create a user-friendly platform that connects people who have lost valuable items with those who have found them, minimizing the gap between both parties.
 
 
-#🎒 Find & Lost Items - Lovely Professional University
+# Find & Lost Items - Lovely Professional University 🎒
+
 A web-based application designed to help students and staff at Lovely Professional University report and track lost or found items within the campus. This platform simplifies the process of reuniting lost belongings with their rightful owners by providing a centralized and easy-to-use interface.
 
-#🌟 Features
+# Features 🌟
+
 
 User Login & Admin Login:
 Separate access for general users and administrators for better management and reporting.
@@ -19,7 +21,9 @@ Modern User Interface:
 Built with HTML, CSS, and PHP to ensure a smooth and intuitive experience.
 Database Integration:
 Uses MySQL to store and retrieve item data efficiently.
-#📁 Project Structure
+
+
+# Project Structure 📁
 
 
 index.php – Home page with links to report lost or found items.
@@ -28,14 +32,14 @@ report_item.php – Form to report lost items.
 submit_item.php – Form to report found items.
 admin_dashboard.php – Dashboard for admins to manage items.
 Database: MySQL database named database_db with an items table.
-#🛠️ Tech Stack
+# Tech Stack 🛠️
 
 
 Frontend: HTML, CSS (Agdasima Font for modern look)
 Backend: PHP (WAMP server for local hosting)
 Database: MySQL
 Version Control: Git and GitHub
-#⚙️ How to Run
+# How to Run ⚙️
 
 
 Clone the Repository:
@@ -108,28 +112,31 @@ Open the browser and type:
 arduino
 Copy code
 http://localhost/find_lost/index.php
-#🚀 Demo Workflow
+
+# Demo Workflow🚀
 
 
 Log In: Users or admins log in via the login page.
 Report Lost Items: Users report lost items with a description and contact details.
 Submit Found Items: Users submit found items with location and item details.
 Admin Dashboard: Admins view and manage all lost/found reports.
-#🏫 Use Case
+
+# Use Case 🏫
 
 
 This project is specifically built to cater to Lovely Professional University but can be adapted for any institution or community with a need for a lost-and-found portal.
-#🤝 Contributing
+
+# Contributing🤝 
 
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the functionality and design.
 
-#📄 License
+# License 📄
 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-#📧 Contact
+# Contact 📧
 
 
 For any inquiries or suggestions, please reach out to:
