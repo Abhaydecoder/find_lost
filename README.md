@@ -1,7 +1,3 @@
-# find_lost
-Find &amp; Lost Items is a web application built using PHP, MySQL, HTML, and CSS, designed to help users report and track lost or found items efficiently. The goal is to create a user-friendly platform that connects people who have lost valuable items with those who have found them, minimizing the gap between both parties.
-
-
 # Find & Lost Items - Lovely Professional University 🎒
 
 A web-based application designed to help students and staff at Lovely Professional University report and track lost or found items within the campus. This platform simplifies the process of reuniting lost belongings with their rightful owners by providing a centralized and easy-to-use interface.
